@@ -67,14 +67,14 @@ CREATE DATABASE animal_info;
 
 USE animal_info;
 
-CREATE TABLE animal_details (
+``CREATE TABLE animal_details (
     id INT AUTO_INCREMENT PRIMARY KEY,
     breed_name VARCHAR(255) NOT NULL,
     description TEXT,
     temperament VARCHAR(255),
     exercise_needs VARCHAR(255),
     grooming_requirements VARCHAR(255)
-);
+);``
 
 📂 Project Structure
 
