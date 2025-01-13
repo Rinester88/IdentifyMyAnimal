@@ -1,4 +1,4 @@
-🐾 Identify My Animal - AI-Powered Animal Recognition & Analysis App
+   🐾                                                  Identify My Animal - AI-Powered Animal Recognition & Analysis App
 
 Identify My Animal is an AI-powered web application that identifies animals from images and provides detailed insights into their breed, behavior, grooming needs, and more. With advanced AI models and seamless integration of APIs, this app is designed for animal lovers and enthusiasts to learn more about animals around them.
 
